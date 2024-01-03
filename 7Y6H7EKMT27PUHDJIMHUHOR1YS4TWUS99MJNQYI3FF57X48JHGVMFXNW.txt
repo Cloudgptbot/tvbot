@@ -2567,8 +2567,10 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 
 
 河南频道,#genre#
+河南民生,http://61.52.27.127:2000/rtp/225.1.4.53:1082
 河南民生,http://media.hndyjyfw.gov.cn/live/jz-henanminsheng/live.m3u8
 河南民生,http://123.6.9.146/live/jz-henanminsheng/live.m3u8?zhend
+河南都市,http://61.52.27.127:2000/rtp/225.1.4.52:1081
 河南都市,http://media.hndyjyfw.gov.cn/live/jz-henandushi/live.m3u8
 河南都市,http://123.6.9.146/live/jz-henandushi/live.m3u8?zhend
 巩义新闻综合,http://tvpull.dxhmt.cn:9081/tv/10181-1.m3u8?zhend
@@ -2654,6 +2656,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 禹州公共,http://tvpull.dxhmt.cn/tv/11081-2.m3u8?zhend
 
 浙江频道,#genre#
+浙江民生休闲,http://eecc.cc:8888/udp/233.50.201.136:5140
 浙江民生休闲,http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?zzhed
 浙江民生休闲,http://hw-m-l.cztv.com/channels/lantian/channel06/720p.m3u8?zzhed
 浙江民生休闲,http://hw-m-l.cztv.com/channels/lantian/channel06/360p.m3u8?zzhed
